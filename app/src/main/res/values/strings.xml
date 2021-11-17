@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Hanukkah</string>
+    <string name="greeting">Happy Hanukkah!</string>
+    <string name="signature">From, Shira!</string>
+</resources>
